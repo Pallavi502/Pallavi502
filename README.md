@@ -2,7 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,50:7C3AED,100:A855F7&text=Aepur%20Pallavi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Engineer;Computer+Science+Graduate;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Software+Solutions"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer+;Python+ Developer;Cloud+Enthusiast;Building+Scalable+Software+Solutions"/>
+<div align="center">
+
+## Open to Software Engineering Opportunities
+
+Actively seeking Full Time Software Engineer, Backend Developer and Graduate Engineer roles.
+
+</div>
 
 <p>
 <img src="https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
@@ -42,13 +49,25 @@ Software Engineering graduate with a strong foundation in software development, 
 
 My experience spans software engineering, web development, cloud fundamentals, and machine learning based solutions. I enjoy transforming ideas into production ready applications while maintaining clean architecture, performance, and usability.
 
+## Quick Snapshot
+
+| Category | Details |
+|-----------|-----------|
+| Education | B.Tech in Computer Science Engineering |
+| Location | Hyderabad, India |
+| Experience | Fresher |
+| Primary Skills | Python, SQL, JavaScript |
+| Backend | Django |
+| Database | MySQL |
+| Cloud | AWS |
+| Interests | Software Engineering, Full Stack Development, AI Applications |
+
 ### Open To
 
 * Software Engineer Roles
 * Full Stack Developer Roles
 * Backend Developer Roles
 * Graduate Software Engineering Programs
-* AI and Machine Learning Opportunities
 * Open Source Contributions
 
 ---
@@ -115,6 +134,14 @@ A machine learning powered healthcare application developed to predict cardiac r
 ### Professional Summary
 
 Developed a real time healthcare prediction platform that leverages machine learning algorithms to identify cardiac risks in CKD patients. Implemented backend services using Django and optimized processing workflows to improve prediction efficiency and support clinical decision making.
+
+### Key Contributions
+
+- Built end to end ML pipeline
+- Integrated XGBoost prediction engine
+- Developed Django backend APIs
+- Designed responsive dashboard
+- Improved prediction latency by 20%
 
 </details>
 
@@ -265,28 +292,26 @@ Designed and developed an IoT device management platform capable of monitoring m
 # Current Focus
 
 ```yaml
-Learning:
-  - Data Structures and Algorithms
-  - Java Development
-  - System Design Fundamentals
-  - Cloud Technologies
-
-Building:
-  - Full Stack Applications
-  - AI Powered Solutions
-  - Software Engineering Portfolio
-
-Exploring:
-  - Backend Engineering
-  - Distributed Systems
-  - Open Source Contributions
-
-Open_To:
-  - Software Engineer Roles
-  - Full Stack Developer Roles
-  - Graduate Programs
-  - Tech Communities
+Current_Mission:
+  Goal: Land a Software Engineer Role
+  Focus:
+    - Java
+    - DSA
+    - Backend Development
+    - AWS
+    - System Design
+  Building:
+    - Real World Software Projects
+    - Full Stack Applications
 ```
+## Currently Learning
+
+- Data Structures & Algorithms
+- Java Development
+- Spring Boot
+- Advanced SQL
+- System Design Fundamentals
+- AWS Cloud Services
 
 ---
 
@@ -312,7 +337,7 @@ Open_To:
 
 <div align="center">
 
-### "Building software that creates impact, scales efficiently, and solves meaningful problems."
+### "Passionate about building reliable software, solving real world problems, and growing into a world class Software Engineer."
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4F46E5,50:7C3AED,100:A855F7"/>
 
