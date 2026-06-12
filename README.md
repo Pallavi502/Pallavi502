@@ -38,7 +38,7 @@
 
 # About Me
 
-Software Engineering graduate with a strong foundation in Python, SQL, Web Technologies, software development, object oriented programming, databases, and scalable application design. Passionate about building reliable software systems, solving real world problems through technology, and continuously improving engineering skills.
+Software Engineering graduate with a strong foundation in software development, object oriented programming, databases, and scalable application design. Passionate about building reliable software systems, solving real world problems through technology, and continuously improving engineering skills.
 
 My experience spans software engineering, web development, cloud fundamentals, and machine learning based solutions. I enjoy transforming ideas into production ready applications while maintaining clean architecture, performance, and usability.
 
@@ -46,7 +46,9 @@ My experience spans software engineering, web development, cloud fundamentals, a
 
 * Software Engineer Roles
 * Full Stack Developer Roles
+* Backend Developer Roles
 * Graduate Software Engineering Programs
+* AI and Machine Learning Opportunities
 * Open Source Contributions
 
 ---
@@ -209,15 +211,7 @@ Designed and developed an IoT device management platform capable of monitoring m
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="#">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
 </div>
